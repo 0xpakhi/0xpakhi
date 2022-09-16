@@ -1,5 +1,5 @@
 # gm👋
-### I'm Pakhi, I'm a ui/ux designer trying to play with code while tinkering around with web3 
+### I'm Pakhi, I'm a begining ui/ux + 3d designer trying to play with code while tinkering around with web3 
 
 #### Technologies/Tools I use :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
